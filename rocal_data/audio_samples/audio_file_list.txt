@@ -1,0 +1,48 @@
+train-clean-100-wav/19/198/19-198-0000.wav 8299
+train-clean-100-wav/19/198/19-198-0001.wav 8300
+train-clean-100-wav/19/198/19-198-0002.wav 8301
+train-clean-100-wav/19/198/19-198-0003.wav 8302
+train-clean-100-wav/19/198/19-198-0004.wav 8303
+train-clean-100-wav/19/198/19-198-0005.wav 8304
+train-clean-100-wav/19/198/19-198-0006.wav 8305
+train-clean-100-wav/19/198/19-198-0007.wav 8306
+train-clean-100-wav/19/198/19-198-0008.wav 8307
+train-clean-100-wav/19/198/19-198-0009.wav 8308
+train-clean-100-wav/19/227/19-227-0000.wav 8226
+train-clean-100-wav/19/227/19-227-0001.wav 8227
+train-clean-100-wav/19/227/19-227-0002.wav 8228
+train-clean-100-wav/19/227/19-227-0003.wav 8229
+train-clean-100-wav/19/227/19-227-0004.wav 8230
+train-clean-100-wav/19/227/19-227-0005.wav 8231
+train-clean-100-wav/19/227/19-227-0006.wav 8232
+train-clean-100-wav/19/227/19-227-0007.wav 8233
+train-clean-100-wav/19/227/19-227-0008.wav 8234
+train-clean-100-wav/19/227/19-227-0008.wav 8235
+train-clean-100-wav/40/222/40-222-0000.wav 18968
+train-clean-100-wav/40/222/40-222-0001.wav 18969
+train-clean-100-wav/40/222/40-222-0002.wav 18970
+train-clean-100-wav/40/222/40-222-0003.wav 18971
+train-clean-100-wav/40/222/40-222-0004.wav 18972
+train-clean-100-wav/40/222/40-222-0005.wav 18973
+train-clean-100-wav/40/222/40-222-0006.wav 18974
+train-clean-100-wav/40/222/40-222-0007.wav 18975
+train-clean-100-wav/40/222/40-222-0008.wav 18976
+train-clean-100-wav/40/222/40-222-0009.wav 18977
+train-clean-100-wav/40/121026/40-121026-0000.wav 18924
+train-clean-100-wav/40/121026/40-121026-0001.wav 18925
+train-clean-100-wav/40/121026/40-121026-0002.wav 18926
+train-clean-100-wav/40/121026/40-121026-0003.wav 18927
+train-clean-100-wav/40/121026/40-121026-0004.wav 18928
+train-clean-100-wav/40/121026/40-121026-0005.wav 18929
+train-clean-100-wav/40/121026/40-121026-0006.wav 18930
+train-clean-100-wav/40/121026/40-121026-0007.wav 18931
+train-clean-100-wav/40/121026/40-121026-0008.wav 18932
+train-clean-100-wav/40/121026/40-121026-0009.wav 18933
+
+
+
+
+
+
+
+
