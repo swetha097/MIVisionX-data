@@ -1,0 +1,44 @@
+{
+    "images": [
+        {"id": 1, "file_name": "resize_416x416_0001.JPEG", "height": 416, "width": 416},
+        {"id": 2, "file_name": "resize_416x416_0004.JPEG", "height": 416, "width": 416},
+        {"id": 3, "file_name": "resize_416x416_0007.JPEG", "height": 416, "width": 416},
+        {"id": 4, "file_name": "resize_416x416_0010.JPEG", "height": 416, "width": 416},
+        {"id": 5, "file_name": "resize_416x416_0019.JPEG", "height": 416, "width": 416},
+        {"id": 6, "file_name": "resize_416x416_0031.JPEG", "height": 416, "width": 416},
+        {"id": 7, "file_name": "resize_416x416_0045.JPEG", "height": 416, "width": 416},
+        {"id": 8, "file_name": "resize_416x416_0046.JPEG", "height": 416, "width": 416},
+        {"id": 9, "file_name": "resize_416x416_0082.JPEG", "height": 416, "width": 416},
+        {"id": 10, "file_name": "resize_416x416_0094.JPEG", "height": 416, "width": 416}
+    ],
+  "annotations": [
+    {"id": 1, "image_id": 1, "category_id": 1, "bbox": [42.195, 157.795, 273.6, 188.07], "area": 51462.672, "iscrowd": 0},
+    {"id": 2, "image_id": 2, "category_id": 2, "bbox": [144.39, 117.54, 268.89, 291.96], "area": 78263.1234 , "iscrowd": 0},
+    {"id": 3, "image_id": 3, "category_id": 3, "bbox": [72.401, 8.836, 242.116, 386.928], "area": 93629.1183, "iscrowd": 0},
+    {"id": 4, "image_id": 4, "category_id": 1, "bbox": [55.963, 86.971, 294.188, 260], "area": 76481.28, "iscrowd": 0},
+    {"id": 5, "image_id": 5, "category_id": 4, "bbox": [129.085, 5.882, 101.002, 345.147], "area": 34832.399, "iscrowd": 0},
+    {"id": 6, "image_id": 6, "category_id": 5, "bbox": [32.012, 208.466, 100.001, 66.006], "area": 6600.066, "iscrowd": 0},
+    {"id": 7, "image_id": 6, "category_id": 5, "bbox": [129.116, 211.007, 84.001, 56.986], "area": 4796.258986, "iscrowd": 0},
+    {"id": 8, "image_id": 6, "category_id": 5, "bbox": [330.997, 201.303, 37.999, 47.999], "area": 1823.759001, "iscrowd": 0},
+    {"id": 9, "image_id": 7, "category_id": 6, "bbox": [123.885, 52.012, 175.056, 305.975], "area": 53575.7196, "iscrowd": 1},
+    {"id": 10, "image_id": 7, "category_id": 7, "bbox": [96.44, 211.614, 221, 203.843], "area": 45060.803, "iscrowd": 1},
+    {"id": 11 , "image_id": 7, "category_id": 8, "bbox": [244.573, 87.994, 161.938, 147.011], "area": 23794.782, "iscrowd": 1},
+    {"id": 12 , "image_id": 8, "category_id": 9, "bbox": [138.46, 218.022, 111.999, 65.0], "area": 7279.935, "iscrowd": 1},
+    {"id": 13 , "image_id": 8, "category_id": 9, "bbox": [136.522, 157.993, 231.0, 104.0], "area": 24024.0, "iscrowd": 1},
+    {"id": 14 , "image_id": 8, "category_id": 8, "bbox": [0.500032, 0.9405, 414.99, 223.999], "area": 92953.6101, "iscrowd": 1},
+    {"id": 15 , "image_id": 9, "category_id": 9, "bbox": [130.0875, 168.8825, 126.995, 111.037], "area": 14097.527815, "iscrowd": 1},
+    {"id": 16 , "image_id": 9, "category_id": 9, "bbox": [244.9965, 219.3725, 111.037, 130.999], "area": 14548.438563, "iscrowd": 1},
+    {"id": 17 , "image_id": 10, "category_id": 8, "bbox": [131.851, 161.122, 149.036, 103.036], "area": 15370.527496, "iscrowd": 1}
+  ],
+  "categories": [
+    {"id": 1, "name": "TV"},
+    {"id": 2, "name": "Horse"},
+    {"id": 3, "name": "Chair"},
+    {"id": 4, "name": "Bottle"},
+    {"id": 5, "name": "Bird"},
+    {"id": 6, "name": "Man"},
+    {"id": 7, "name": "Bicycle"},
+    {"id": 8, "name": "Car"},
+    {"id": 9, "name": "Dog"}
+  ]
+}
